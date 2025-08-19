@@ -27,8 +27,8 @@ When you exit the game, it automatically generates a file containing the list of
     If you exit before finishing, a file countries_to_learn.csv is created with the missing countries.
 
 ## 📸 Screenshots
-![Game Screenshot](https://github.com/loubnatech/Map-Game/blob/master/screenshot.png?raw=true)
 
+](https://github.com/loubnatech/Map-Game/blob/master/assets/screenshot.png?raw=true)
 
 📂 Project Structure
 bash
