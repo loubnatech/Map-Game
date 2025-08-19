@@ -13,6 +13,13 @@ When you exit the game, it automatically generates a file containing the list of
 - 🎮 Fun and educational way to learn geography.  
 
 ---
+# 🗺️ Map Game
+
+**Current Version:** 
+v1.0
+
+![Release](https://img.shields.io/badge/release-v1.0-blue)
+
 
 ## 🚀 How to Play
 1. Run the game:
